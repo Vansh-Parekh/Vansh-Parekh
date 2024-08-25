@@ -1,7 +1,7 @@
 - Hello, I am Vansh Parekh.
 - I am a Bachelor of Computer Application (BCA) graduate from Indus University.
 - I am pursuing a Master of Computer Application (MCA) from Indus University.
-- I know core languages:- JavaScript, Python, PHP, C, C++.
+- Core languages:- JavaScript, Java, Python, PHP, C, C++.
 - I am interested in web development.
 - I want to be a Full Stack Developer.
 - I have learned the basics of MERN Stack Technology.
